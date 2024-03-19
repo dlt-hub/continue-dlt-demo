@@ -1,0 +1,2 @@
+huggingface-hub==0.21.3
+-e git+https://github.com/dlt-hub/dlt.git@3a007a427aeff8fe79ec077d1a04aff786fdbe66#egg=dlt
